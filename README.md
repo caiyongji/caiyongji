@@ -5,18 +5,12 @@
 Table of Contents
 -----------------
 
-- [PERSONAL APPS](# PERSONAL APPS #)
-- [AI/ML](# AI/ML #)
-  - [ML Articles](# ML Articles #)
+- [PERSONAL APPS](#PERSONAL-APPS)
+- [AI/ML](#AI/ML)
+  - [ML Articles](# ML-Articles)
 - [Places](#places)
 - [Symbols](#symbols)
 
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
 
 # PERSONAL APPS #
 ![](images/quit-smoking.png)
