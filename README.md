@@ -2,16 +2,16 @@
 # caiyongji: Not only a developer!
 
 
-Table of Contents
+Contents
 -----------------
 
 - [PERSONAL APPS](#PERSONAL-APPS)
 - [AI/ML](#AI-ML)
   - [ML Articles](#ML-Articles)
-- [ABOUT](#http://caiyongji.com/#about)
-- [CONTACT](#http://caiyongji.com/#contact)
-- [RESUME](#http://caiyongji.com/resume/index.html)
-- [BLOG](#http://blog.caiyongji.com/)
+- [ABOUT](http://caiyongji.com/#about)
+- [CONTACT](http://caiyongji.com/#contact)
+- [RESUME](http://caiyongji.com/resume/index.html)
+- [BLOG](http://blog.caiyongji.com/)
 
 
 # PERSONAL APPS #
