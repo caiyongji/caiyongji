@@ -18,7 +18,7 @@ Contents
 
 # PERSONAL APPS #
 ![](images/quit-smoking.png)
-[Quit Smoking with Cai(Flutter)]【2020】(https://play.google.com/store/apps/details?id=com.caiyongji.quit_smoking)
+[Quit Smoking with Cai(Flutter)【2020】](https://play.google.com/store/apps/details?id=com.caiyongji.quit_smoking)
 
 ![](images/quick-flashlight.png)
 [Quick Flashlight (Android)【2017】](https://play.google.com/store/apps/details?id=com.caiyongji.flashlight.quickflashlight)
