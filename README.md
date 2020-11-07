@@ -24,7 +24,7 @@ Contents
 [Quick Flashlight (Android)](https://play.google.com/store/apps/details?id=com.caiyongji.flashlight.quickflashlight)
 
 ![](images/cornershop.png)
-Cornershop - Wechat Shopping Program(full solution)
+[Cornershop - Wechat Shopping Program(full solution)](https://github.com/caiyongji/cornershop)
 
 ![](images/cookie-injector.png)
 [Cookie Injector(Chrome Extension)](https://chrome.google.com/webstore/detail/cookie-injector/mflfghebbbnmdnkhbnmhajalhbgalklk)
