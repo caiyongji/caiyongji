@@ -7,13 +7,14 @@ Contents
 -----------------
 
 - [PERSONAL APPS](#PERSONAL-APPS)
-- [AI/ML](#AI-ML)
+- [TFUG](#TFUG)
   - [ML Articles](#ML-Articles)
 - [ARTICLES](#ARTICLES)
 - [ABOUT](http://caiyongji.com/#about)
 - [CONTACT](http://caiyongji.com/#contact)
 - [RESUME](http://caiyongji.com/resume/index.html)
 - [BLOG](http://blog.caiyongji.com/)
+- [我的公众号](#我的公众号)
 
 
 # PERSONAL APPS #
@@ -29,7 +30,7 @@ Contents
 ![](images/cookie-injector.png)
 [Cookie Injector(Chrome Extension)【2016】](https://chrome.google.com/webstore/detail/cookie-injector/mflfghebbbnmdnkhbnmhajalhbgalklk)
 
-# AI ML #
+# TFUG #
 
 ![](images/tfug1.jpg)  
 [「活动回顾 」TensorFlow Meetup 大连第一次活动回顾](https://mp.weixin.qq.com/s/XpvfGSTPjyFzKfgSbMsJGw)
@@ -63,6 +64,10 @@ Contents
 [天下苦谷歌网盘久矣！](http://blog.caiyongji.com/2020/04/17/baidupan.html)  
 [你的知识死角不能否定你的技术能力](http://blog.caiyongji.com/2018/05/27/your-knowledge-died-corner.html)  
 [摩拜单车和ofo单车数据分析报告](http://blog.caiyongji.com/2017/12/21/shared-bike.html)  
+
+# 我的公众号 #
+## (subscribe me) ##
+![](images/qrcode-search-caiyongji.png) 
 
 
 <!--
