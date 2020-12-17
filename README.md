@@ -14,7 +14,7 @@ Contents
 - [CONTACT](http://caiyongji.com/#contact)
 - [RESUME](http://caiyongji.com/resume/index.html)
 - [BLOG](http://blog.caiyongji.com/)
-- [我的公众号](#我的公众号)
+- [我的公众号(subscribe me)](#我的公众号)
 
 
 # PERSONAL APPS #
