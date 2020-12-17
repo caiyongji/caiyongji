@@ -14,7 +14,7 @@ Contents
 - [CONTACT](http://caiyongji.com/#contact)
 - [RESUME](http://caiyongji.com/resume/index.html)
 - [BLOG](http://blog.caiyongji.com/)
-- [我的公众号(subscribe me)](#我的公众号)
+- [SUBSCRIBE ME(公众号)](#SUBSCRIBE-ME)
 
 
 # PERSONAL APPS #
@@ -65,8 +65,7 @@ Contents
 [你的知识死角不能否定你的技术能力](http://blog.caiyongji.com/2018/05/27/your-knowledge-died-corner.html)  
 [摩拜单车和ofo单车数据分析报告](http://blog.caiyongji.com/2017/12/21/shared-bike.html)  
 
-# 我的公众号 #
-## (subscribe me) ##
+# SUBSCRIBE ME #
 ![](images/qrcode-search-caiyongji.png) 
 
 
