@@ -1,12 +1,11 @@
 ### Hi there 👋
-# caiyongji: Not only a developer!
+# caiyongji: Let's make progress!
 
 ### [caiyongji.com](http://caiyongji.com)
 
 Contents
 -----------------
 
-- [PERSONAL APPS](#PERSONAL-APPS)
 - [TFUG](#TFUG)
   - [ML Articles](#ML-Articles)
 - [ARTICLES](#ARTICLES)
@@ -16,19 +15,6 @@ Contents
 - [BLOG](http://blog.caiyongji.com/)
 - [SUBSCRIBE ME(公众号)](#SUBSCRIBE-ME)
 
-
-# PERSONAL APPS #
-![](images/quit-smoking.png)
-[Quit Smoking with Cai(Flutter)【2020】](https://play.google.com/store/apps/details?id=com.caiyongji.quit_smoking)
-
-![](images/quick-flashlight.png)
-[Quick Flashlight (Android)【2017】](https://play.google.com/store/apps/details?id=com.caiyongji.flashlight.quickflashlight)
-
-![](images/cornershop.png)
-[Cornershop - Wechat Shopping Program(full solution)【2016】](https://github.com/caiyongji/cornershop)
-
-![](images/cookie-injector.png)
-[Cookie Injector(Chrome Extension)【2016】](https://chrome.google.com/webstore/detail/cookie-injector/mflfghebbbnmdnkhbnmhajalhbgalklk)
 
 # TFUG #
 
