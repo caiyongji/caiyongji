@@ -9,9 +9,7 @@ Contents
 - [TFUG](#TFUG)
   - [ML Articles](#ML-Articles)
 - [ARTICLES](#ARTICLES)
-- [ABOUT](http://caiyongji.com/#about)
 - [CONTACT](http://caiyongji.com/#contact)
-- [RESUME](http://caiyongji.com/resume/index.html)
 - [BLOG](http://blog.caiyongji.com/)
 - [SUBSCRIBE ME(公众号)](#SUBSCRIBE-ME)
 
