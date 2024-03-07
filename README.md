@@ -1,7 +1,7 @@
 ### I'm building one-person business with AI[(link)](https://github.com/caiyongji/one-person-business-with-AI?tab=readme-ov-file)
 
-Click below:
-[![click this image](./images/onepersonbusinesslogo.webp)](https://github.com/caiyongji/one-person-business-with-AI?tab=readme-ov-file)
+Click below image:   
+[![click this image](./images/onepersonbusinesslogo.png)](https://github.com/caiyongji/one-person-business-with-AI?tab=readme-ov-file)
 
 <!--
 ### Hi there 👋
